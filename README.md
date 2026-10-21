@@ -11,7 +11,7 @@ Documentos HTML estáticos para Sony Music, organizados por región. Cada docume
 | SM USLatin | Diseño accesible para correos | `guia-accesibilidad-correos.html` |
 | SM CAC | Community + Fansifter (resumen operativo) | `community-fansifter-cac.html` |
 | SM CAC | Galería de Recaps para eventos SomosFiltr | `propuesta-recaps-somosfiltr.html` |
-| SM México | — | — |
+| SM México | Morphy's Club — Paloma Morphy | `morphys-club-propuesta.html` |
 | SM 5020 Records | — | — |
 | SM Argentina | — | — |
 | SM Chile | — | — |
